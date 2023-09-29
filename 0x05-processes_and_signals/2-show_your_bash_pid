@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# script shows PID of bash process
+ps auxf | grep bash
